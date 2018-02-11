@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Swy2</string>
+    <string name="swy">SWY</string>
+    <string name="lusername">User Name</string>
+    <string name="lpassword">password</string>
+    <string name="loginbtn">Login</string>
+    <string name="login">Login</string>
+</resources>
