@@ -5,4 +5,5 @@
     <string name="lpassword">password</string>
     <string name="loginbtn">Login</string>
     <string name="login">Login</string>
+    <string name="ok">click</string>
 </resources>
